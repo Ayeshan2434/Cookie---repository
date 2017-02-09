@@ -1,0 +1,28 @@
+
+#eLight-logo{
+    margin-top: -14px;    
+}
+
+#bs-example-navbar-collapse-1{
+    text-align: center;
+}
+
+/*modal*/
+
+  .modal-header, h4, .close {
+      background-color: #5cb85c;
+      color:white !important;
+      text-align: center;
+      font-size: 30px;
+  }
+  .modal-footer {
+      background-color: #f9f9f9;
+  }
+
+#nav-bar{
+    background-color:white;
+}
+
+#form{
+    margin-top:-25px;
+}
